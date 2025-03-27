@@ -22,4 +22,4 @@ These two files are Minecraft server starter files for Windows.
 - The server will generate necessary files on first run.
   服务器首次运行时会自动生成必要的文件。
 
-祝你游戏愉快
+# 祝你游戏愉快
