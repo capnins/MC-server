@@ -22,5 +22,4 @@ These two files are Minecraft server starter files for Windows.
 - The server will generate necessary files on first run.
   服务器首次运行时会自动生成必要的文件。
 
-- You can modify `server.properties` to configure your server settings.
-  你可以修改 `server.properties` 文件来配置服务器设置。
+祝你游戏愉快
